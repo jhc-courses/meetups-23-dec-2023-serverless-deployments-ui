@@ -1,1 +1,1 @@
-# jhc-courseware-meetups-23-dec-serverless-deployments-ui
+# Meetups - 23 Dec 2023 - Serverless Deplopyments - UI App
